@@ -3,7 +3,7 @@ import React from 'react';
 export default function Dashboard({ fillLevel, setFillLevel, variance, setVariance, metrics }) {
   return (
     <div className="dashboard-container">
-      <h2 style={{ margin: '0 0 10px 0' }}>BinSentry ProSense</h2>
+      <h2 style={{ margin: '0 0 10px 0' }}>SiloHD</h2>
       <hr style={{ borderColor: '#374151', marginBottom: '20px' }} />
 
       <div className="metric-box">
