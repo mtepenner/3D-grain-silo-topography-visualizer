@@ -36,7 +36,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/3d-topography-visualizer.git](https://github.com/your-username/3d-topography-visualizer.git)
+git clone [https://github.com/mtepenner/3d-topography-visualizer.git](https://github.com/mtepenner/3d-topography-visualizer.git)
 cd 3d-topography-visualizer
 ```
 
