@@ -1,4 +1,4 @@
-# 🌾 3D Topography Visualizer
+# 🌾 3D Grain Silo Topography Visualizer
 
 A full-stack web application designed to simulate and visualize the 3D surface topography of feed or grain inside a silo. This project features an interactive frontend powered by Three.js that renders 3D point clouds in real-time, backed by a Node.js API that procedurally generates realistic sensor data, simulating physical behaviors like "rat-holing" and surface clumping.
 
@@ -36,7 +36,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/mtepenner/3d-topography-visualizer.git](https://github.com/mtepenner/3d-topography-visualizer.git)
+git clone [https://github.com/mtepenner/3d-grain-silo-topography-visualizer.git](https://github.com/mtepenner/3d-grain-silo-topography-visualizer.git)
 cd 3d-topography-visualizer
 ```
 
