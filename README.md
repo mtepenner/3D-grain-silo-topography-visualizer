@@ -1,4 +1,4 @@
-# 🌾 3D Topography Visualizer (BinSentry ProSense Mock)
+# 🌾 3D Topography Visualizer
 
 A full-stack web application designed to simulate and visualize the 3D surface topography of feed or grain inside a silo. This project features an interactive frontend powered by Three.js that renders 3D point clouds in real-time, backed by a Node.js API that procedurally generates realistic sensor data, simulating physical behaviors like "rat-holing" and surface clumping.
 
