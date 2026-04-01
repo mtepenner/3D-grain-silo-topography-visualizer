@@ -14,7 +14,7 @@ app.use('/api/silo', siloRoutes);
 
 // Health check endpoint
 app.get('/health', (req, res) => {
-    res.status(200).json({ status: 'active', message: 'BinSentry Mock API is running.' });
+    res.status(200).json({ status: 'active', message: 'API is running.' });
 });
 
 app.listen(PORT, () => {
