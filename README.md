@@ -64,7 +64,7 @@ npm run dev
    * **Left Click & Drag:** Rotate the camera.
    * **Right Click & Drag:** Pan the camera.
    * **Scroll Wheel:** Zoom in and out.
-4. Adjust the sliders in the **BinSentry ProSense** dashboard on the top-left to dynamically alter the silo's volume and surface clumpiness.
+4. Adjust the sliders in the **SiloHD** dashboard on the top-left to dynamically alter the silo's volume and surface clumpiness.
 
 ## 📂 Project Structure
 
