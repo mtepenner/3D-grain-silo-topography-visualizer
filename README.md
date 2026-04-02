@@ -37,7 +37,7 @@ To get a local copy up and running, follow these simple steps.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/mtepenner/3d-grain-silo-topography-visualizer.git
-cd 3d-topography-visualizer
+cd 3d-grain-silo-topography-visualizer
 ```
 
 ### 2. Setup the Backend
@@ -69,7 +69,7 @@ npm run dev
 ## 📂 Project Structure
 
 ```text
-3d-topography-visualizer/
+3d-grain-silo-topography-visualizer/
 ├── backend/                  # Express API
 │   ├── index.js              # Server entry point
 │   └── src/
